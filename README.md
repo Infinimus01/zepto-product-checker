@@ -1,6 +1,12 @@
 🛒 Zepto Product Checker 
 A Node.js service using Puppeteer to automate product availability checks on Zepto, based on location and product name. It simulates browser actions, scrapes product details, and returns availability status in JSON format.
 
+Zepto Product Availability Checker – A Node.js service that automates product searches on Zepto using Puppeteer. Enter a location and product name, and get availability details instantly. 
+
+🔹 Built with: Express, Puppeteer, Chalk, and dotenv. 
+🔹 Automates location selection and product search. 
+🔹 Fetches real-time product availability.
+
 ⚙️ Requirements
 
 ✅ Node.js v16+
