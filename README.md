@@ -23,6 +23,8 @@ json :
   "location": "560102",
   "product": "chocolates"
 }
+
+
 Response:
 
 json :
